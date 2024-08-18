@@ -22,7 +22,7 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = ['!']
 global.owner = ['4759441519']
 global.ownMain = '4759441519'
 global.NamaOwner = '‎Ꭲriʙᴀl-Ꮇisᴛ𓋹' //gausah diganti 
